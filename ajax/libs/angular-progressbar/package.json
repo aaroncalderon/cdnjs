@@ -1,0 +1,9 @@
+{
+  "name": "angular-progressbar",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felipecamposclarke/angular-progressbar.git"
+  }
+}
