@@ -1,0 +1,9 @@
+{
+  "name": "angular-progressbar",
+  "version": "0.1.0",
+  "description": "Modified to fix the set method. Is not a true copy of the original",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felipecamposclarke/angular-progressbar.git"
+  }
+}
